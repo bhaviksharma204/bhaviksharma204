@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bhaviksharma204
-- 👀 I’m interested in Data science, AI and Android development. 
+- 👀 I’m interested in Data science,Ethical Hacking, AI and Android and web development. 
 - 🌱 I’m currently learning Python and machine learning Algorithms and also worked on flutter based applications 
 - 🧐 I can help you in every problematic situation
 <!---
